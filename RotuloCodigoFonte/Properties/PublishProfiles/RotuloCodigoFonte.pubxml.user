@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Documentos\Pessoais\OneDrive\college\faccat\Compiladores\apps\RotuloCodigoFonte\instalacao</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/RotuloCodigoFonte.dll">
+      <publishTime>09/23/2016 16:23:13</publishTime>
+    </File>
+    <File Include="content/software.css">
+      <publishTime>09/23/2016 16:20:36</publishTime>
+    </File>
+    <File Include="image/logo.ico">
+      <publishTime>09/23/2016 16:20:36</publishTime>
+    </File>
+    <File Include="master.Master">
+      <publishTime>09/23/2016 16:21:13</publishTime>
+    </File>
+    <File Include="views/codigofonte.aspx">
+      <publishTime>09/23/2016 16:21:13</publishTime>
+    </File>
+    <File Include="views/rotulador.aspx">
+      <publishTime>09/23/2016 16:21:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/23/2016 16:23:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

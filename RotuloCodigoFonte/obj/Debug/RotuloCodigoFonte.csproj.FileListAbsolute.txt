@@ -1,0 +1,5 @@
+D:\Documentos\Pessoais\OneDrive\college\faccat\Compiladores\apps\RotuloCodigoFonte\RotuloCodigoFonte\bin\RotuloCodigoFonte.dll.config
+D:\Documentos\Pessoais\OneDrive\college\faccat\Compiladores\apps\RotuloCodigoFonte\RotuloCodigoFonte\bin\RotuloCodigoFonte.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Compiladores\apps\RotuloCodigoFonte\RotuloCodigoFonte\bin\RotuloCodigoFonte.pdb
+D:\Documentos\Pessoais\OneDrive\college\faccat\Compiladores\apps\RotuloCodigoFonte\RotuloCodigoFonte\obj\Debug\RotuloCodigoFonte.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Compiladores\apps\RotuloCodigoFonte\RotuloCodigoFonte\obj\Debug\RotuloCodigoFonte.pdb

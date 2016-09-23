@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="RotuloCodigoFonte.master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Rotulador Codigo Fonte</title>
+    <link rel="stylesheet" type="text/css" href="content/software.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="images/logo.ico" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <asp:Label ID="lbEmpresa" runat="server" Text="FACCAT - Sistemas de Informação"></asp:Label><br />
+            <asp:Label ID="lbSoftware" runat="server" Text="Compiladores - Trabalho G1 (Rotulador Codigo Fonte)" CssClass="label"></asp:Label>
+        </header>
+        <aside>
+            <article>
+                <asp:Panel ID="panel_message" runat="server" CssClass="panel-message">
+                    <asp:Label ID="lbTela" runat="server" Text=""></asp:Label><br />
+                    <asp:Label ID="lbMessage" runat="server" Text=""></asp:Label>
+                </asp:Panel>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </article>
+        </aside>
+        <footer>
+            Faccat 2016/2
+            <br />
+            Patrick Fernando Silva
+        </footer>
+    </form>
+</body>
+</html>
